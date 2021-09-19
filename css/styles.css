@@ -68,10 +68,7 @@ p{
     width: 60%;
     border-radius: 50%;
 }
-.col-sm:hover{
-    background-color: blueviolet;
-    border-radius: 10px;
-}
+
 
 #footer{
     background-color:rgb(213, 88, 230);
