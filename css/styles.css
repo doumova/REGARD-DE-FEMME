@@ -5,7 +5,7 @@ h1{
     /* font-family: "Montserrat-Black"; */
     font-size: 3.5rem;
     line-height: 1.5;
-    
+    color: #fff;
 }
 
 a{
@@ -19,8 +19,6 @@ p{
     font-family: 'Ubuntu';
     font-size: 3.5rem;
     line-height: 1.5;
-
-
 }
 .container-fluid{
     padding: 3% 15%;
@@ -29,7 +27,7 @@ p{
 #title{
     background-color: rgb(226, 117, 202);
     color: #fff;
-
+    height: 800px;
 }
 #logo{
     width: 40px;
@@ -63,7 +61,6 @@ p{
 .d-block{
     width: 100%;
     height: 700px;
-
 }
 
 
@@ -94,9 +91,10 @@ p{
 }
 
 
+
 #footer{
     background-color:rgb(213, 88, 230);
     width: 100%;
-    height: 100px;
+    height: auto;
     text-align: center;
 }
