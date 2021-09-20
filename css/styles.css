@@ -90,11 +90,15 @@ p{
     border-radius: 50%;
 }
 
-
+.copy{
+    padding: 5%;
+    color: #fff;
+}
 
 #footer{
     background-color:rgb(213, 88, 230);
     width: 100%;
     height: auto;
     text-align: center;
+    padding: 7% 15%;
 }
